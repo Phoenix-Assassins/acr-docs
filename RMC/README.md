@@ -39,8 +39,8 @@
 | 117  | SocialNetworksProtocol                 |
 | 120  | UplayWinProtocol                       |
 | 124  | IP2LocationProtocol                    |
-| 142  | FriendMessagesExtensionServiceProtocol |
-| 143  | SearchFriendsProtocol                  |
+| 142  | [FriendMessagesExtensionServiceProtocol](FriendMessagesExtensionServiceProtocol.md) |
+| 143  | [SearchFriendsProtocol](SearchFriendsProtocol.md) |
 | 5000 | [LeaderboardProtocol](LeaderboardProtocol.md) |
 | 5001 | [RpneProtocol](RpneProtocol.md) |
 | 5002 | [OverlordNewsProtocol](OverlordNewsProtocol.md) |
