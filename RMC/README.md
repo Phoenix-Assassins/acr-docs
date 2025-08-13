@@ -50,5 +50,5 @@
 | 5006 | [AwardsProtocol](AwardsProtocol.md) |
 | 5007 | [OverlordChallengeProtocol](OverlordChallengeProtocol.md) |
 | 5008 | [OverlordDareProtocol](OverlordDareProtocol.md) |
-| 7003 | ShopProtocol                           |
-| 7100 | ClientLoginProtocol                    |
+| 7003 | [ShopProtocol](ShopProtocol.md) |
+| 7100 | [ClientLoginProtocol](ClientLoginProtocol.md) |
