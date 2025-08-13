@@ -23,7 +23,7 @@ This method does not return anything.
 ## Request
 | Type         | Name     |
 | ------------ | -------- |
-| List<Uint32> | unkUints |
+| List\<uint32> | unkUints |
 
 ## Response
 This method does not return anything.
@@ -59,7 +59,7 @@ This method does not take any parameters.
 ## Request
 | Type   | Name |
 | ------ | ---- |
-| List<Uint32> | defIds |
+| List\<uint32> | defIds |
 
 ## Response
 | Type   | Name |
@@ -72,7 +72,7 @@ This method does not take any parameters.
 | Type   | Name |
 | ------ | ---- |
 | ProtoAwardsFilter | filter |
-| List<Uint32> | ids |
+| List\<uint32> | ids |
 
 ## Response
 | Type   | Name |
