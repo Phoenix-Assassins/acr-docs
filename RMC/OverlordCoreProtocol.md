@@ -11,11 +11,11 @@ This method does not take any parameters.
 ## Response
 | Type | Name |
 |------|------|
-| [List](https://github.com/kinnay/NintendoClients/wiki/NEX-Common-Types#list)<[Setting](#setting-structure)> | settings |
+| [List](https://github.com/kinnay/NintendoClients/wiki/NEX-Common-Types#list)<[OverlordProperty](#overlordproperty-structure)> | settings |
 
 # Types
 
-## Setting ([Structure](https://github.com/kinnay/NintendoClients/wiki/NEX-Common-Types#structure))
+## OverlordProperty ([Structure](https://github.com/kinnay/NintendoClients/wiki/NEX-Common-Types#structure))
 
 | Type                                                                               | Name  |
 | ---------------------------------------------------------------------------------- | ----- |
