@@ -37,7 +37,7 @@ One of:
 - [ProtoPredicatePrincipals](#protopredicateprincipals-structure)
 
 ## ProtoPredicateGameNews ([Structure](https://github.com/kinnay/NintendoClients/wiki/NEX-Common-Types#structure))
-Extends [`AnyDataHolder`](https://github.com/kinnay/NintendoClients/wiki/NEX-Common-Types#anydataholder)`.
+Extends [`AnyDataHolder`](https://github.com/kinnay/NintendoClients/wiki/NEX-Common-Types#anydataholder).
 | Type | Name |
 |------|------|
 | string | channelType |
