@@ -43,7 +43,7 @@ Extends [`AnyDataHolder`](https://github.com/kinnay/NintendoClients/wiki/NEX-Com
 | string | channelType |
 | string | newsType |
 
-## ProtoPredicatePrincipals
+## ProtoPredicatePrincipals ([Structure](https://github.com/kinnay/NintendoClients/wiki/NEX-Common-Types#structure))
 Extends [`AnyDataHolder`](https://github.com/kinnay/NintendoClients/wiki/NEX-Common-Types#anydataholder).
 | Type | Name |
 |------|------|
